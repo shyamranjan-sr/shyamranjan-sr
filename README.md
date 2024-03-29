@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shyamranjan-sr
 - 👀 I’m interested in Computer Science Engineering
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Code
 - 📫 Reach me on my Insta DM
 - 😄 Pronouns: Shyam
 - ⚡
